@@ -125,6 +125,10 @@ I'm a **Backend-focused Full-Stack Developer** passionate about building scalabl
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HariMalam&theme=tokyonight" alt="Wakatime Stats" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HariMalam/HariMalam/output/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 🤝 Connect With Me
@@ -139,7 +143,7 @@ I'm a **Backend-focused Full-Stack Developer** passionate about building scalabl
   <a href="https://github.com/HariMalam" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:harimalam.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://resume-harimalam-in.vercel.app" target="_blank">
